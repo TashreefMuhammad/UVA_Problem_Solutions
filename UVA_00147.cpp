@@ -1,4 +1,4 @@
-/// Almost similar to UVA-647 & UVA -357
+/// Almost similar to UVA-674 & UVA -357
 
 #include <stdio.h>
 #include <math.h>
